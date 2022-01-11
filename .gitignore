@@ -1,6 +1,7 @@
 # Heavy data
 dog_breed/data/
 face_generator/processed_celeba_small
+tv_script/trained_rnn.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
